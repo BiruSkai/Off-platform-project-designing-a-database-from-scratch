@@ -1,0 +1,34 @@
+teachers_id;schools_name;position
+0;St. Joseph;President
+1;St. Joseph;Headmaster
+2;St. Joseph;Vice Headmaster
+3;St. Joseph;permanent employee
+4;St. Joseph;permanent employee
+5;St. Joseph;permanent employee
+6;St. Joseph;permanent employee
+7;St. Joseph;permanent employee
+8;St. Joseph;permanent employee
+9;St. Joseph;permanent employee
+10;St. Joseph;permanent employee
+11;Argeus;Headmaster
+12;Argeus;Vice Headmaster
+13;Argeus;permanent employee
+14;Argeus;permanent employee
+15;Argeus;permanent employee
+16;Argeus;permanent employee
+17;Argeus;permanent employee
+18;Argeus;permanent employee
+19;Argeus;permanent employee
+20;Argeus;permanent employee
+21;Argeus;impermanent employee
+22;Yorktown;Headmaster
+23;Yorktown;Vice Headmaster
+24;Yorktown;permanent employee
+25;Yorktown;permanent employee
+26;Yorktown;permanent employee
+27;Yorktown;permanent employee
+28;Yorktown;permanent employee
+29;Yorktown;permanent employee
+30;Yorktown;permanent employee
+31;Yorktown;impermanent employee
+32;Yorktown;impermanent employee
