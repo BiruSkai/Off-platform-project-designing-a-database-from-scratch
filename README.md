@@ -20,8 +20,8 @@ The writter choosed 'Highschool' system. It consists of six entities (the diagra
 
 The connection between the tables are as follow:
 - __one to one__: teachers and teacher_position
-- __one to many__: schools and schools_classes_id, students and schools_classes_id, schools_classes_id and schools_classes_teachers
-- __many to many__: teachers and schools_classes_teachers
+- __one to many__: schools and schools_classes_id, students and schools_classes_id
+- __many to many__: teachers and schools_classes_id  with an intermediary table schools_classes_teachers
 
 The diagram is created uitlizing an online tool dbdiagram.io .
 
